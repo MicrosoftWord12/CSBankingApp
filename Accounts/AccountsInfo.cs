@@ -1,5 +1,11 @@
 ﻿namespace CSBankingApp.Accounts
 {
+    
+    /*
+     * Author = Microsft Wrd 
+     * Description = Utilities, this class if meant for being extended from a new class
+     * 
+     */
     public class AccountsInfo
     {
         private string nameF;
